@@ -1,0 +1,39 @@
+.urgent {
+  color: #F30E0E;
+}
+
+.not-urgent {
+  color: #00760B;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+#content {
+  margin: 20px 20px 0 20px;
+}
+
+input {
+  margin-right: 10px;
+}
+
+#todolist {
+
+  margin-top: 20px;
+}
+
+#todolist button {
+  margin-left: 5px;
+}
+
+.todo {
+  font-size: 16px;
+  font-weight: 600;
+
+}
+
+.todo-item {
+  margin-bottom: 10px;
+}
